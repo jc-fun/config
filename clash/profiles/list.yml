@@ -1,0 +1,27 @@
+files:
+  - time: 1657535366969.yml
+    name: sub
+    url: https://api.suda.cat/sub?target=clash&url=https://suda.sub.koicloud.pw/link/oFkZslQOlE6SZ5mU?clash=2&new_name=true
+    selected: []
+    interval: 24
+    subInfo:
+      upload: 1294231543
+      download: 113937368795
+      total: 537944653824
+      expire: 1660326400
+  - time: 1657536220816.yml
+    name: 蜂巢专线版
+    url: https://99ding.men/api/v1/client/subscribe?token=531b87bbb0e5e236b8bb53763af96d22
+    selected:
+      - name: GLOBAL
+        now: 🇭🇰香港A—专线主
+      - name: 蜂巢专线版
+        now: 自动选择
+    interval: 24
+    subInfo:
+      upload: 291178538
+      download: 18759017940
+      total: 64424509440
+      expire: 1673433780
+    mode: rule
+index: 1

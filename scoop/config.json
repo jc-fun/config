@@ -1,0 +1,7 @@
+{
+  "SCOOP_BRANCH": "master",
+  "SCOOP_REPO": "https://github.com/ScoopInstaller/Scoop",
+  "lastupdate": "2022-10-02T22:02:25.2916363+08:00",
+  "proxy": "127.0.0.1:7890",
+  "alias": {}
+}
